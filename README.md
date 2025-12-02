@@ -1,6 +1,9 @@
 # Customer_Behavior_Shopping-Analysis-SQL-Python-PowerBI
 Customer_Behavior_Shopping Analysis-SQL-Python-PowerBI
 
+<img width="4872" height="2656" alt="Image overview" src="https://github.com/user-attachments/assets/7969f352-4dac-485b-89ce-c58d5960a899" />
+
+
 # 🛍️ End-to-End Data Analyst Project  
 **Retail Customer Behavior Analysis (Python, SQL, Power BI)**  
 
